@@ -8,6 +8,7 @@ Packages using `cite-roi`:
 - [imageviewer](https://github.com/neelsmith/imageviewer)
 - [iiif-cite](https://github.com/neelsmith/iiif-cite)
 
+> *See [release notes]()*
 
 ## RoIs
 
