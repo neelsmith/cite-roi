@@ -1,0 +1,16 @@
+{
+  "name": "cite-roi",
+  "version": "1.0.0",
+  "description": "Scale-independent rectangular regions of interest on images, with CITE2 URN formatting",
+  "type": "module",
+  "exports": { ".": "./src/roi.ts" },
+  "files": ["src"],
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.4"
+  }
+}
